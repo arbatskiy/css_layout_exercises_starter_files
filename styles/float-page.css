@@ -10,3 +10,29 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img.left {
+	width: 300px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 20px;
+}
+
+img.right {
+	width: 300px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+
+
+
