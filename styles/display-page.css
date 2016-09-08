@@ -1,0 +1,50 @@
+.container {
+	width: 800px;
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.upper-container {
+	height: 200px;
+	width: 100%;
+}
+
+.bottom-container {
+	height: 300px;
+	width: 100%;
+}
+
+.box {
+	box-sizing: border-box;
+	border: 1px solid black;
+	display: inline-block;
+	height: 100%;
+}
+
+.one-half {
+	width: 50%;
+}
+
+.one-third {
+	width: 33.33%;
+}
+
+.first {
+	background-color: #3D7900;
+}
+
+.second {
+	background-color: #0048FB;
+}
+
+.third {
+	background-color: #808080;
+}
+
+.fourth {
+	background-color: #000000	;
+}
+
+.fifth {
+	background-color: #F3A633;
+}
